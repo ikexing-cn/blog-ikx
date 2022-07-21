@@ -1,0 +1,9 @@
+{
+  "extends": "@antfu",
+  "rules": {
+    "comma-dangle": "off",
+    "no-console": "off",
+    "@typescript-eslint/comma-dangle": ["off"],
+    "vue/singleline-html-element-content-newline": "off"
+  }
+}
